@@ -1,0 +1,33 @@
+C:\Users\kong1\source\repos\Employded\Employded\bin\Debug\Employded.exe.config
+C:\Users\kong1\source\repos\Employded\Employded\bin\Debug\Employded.exe
+C:\Users\kong1\source\repos\Employded\Employded\bin\Debug\Employded.pdb
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.csproj.AssemblyReference.cache
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.log_in.resources
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.Properties.Resources.resources
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.csproj.GenerateResource.cache
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.csproj.CoreCompileInputs.cache
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.exe
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.pdb
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.register.resources
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.StartForm.resources
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.Add_Form.resources
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.Add_Chil.resources
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.Add_Chil_DB.resources
+C:\Users\kong1\source\repos\Employded\Employded\obj\Debug\Employded.SqlQuery.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\bin\Debug\Employded.exe.config
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\bin\Debug\Employded.exe
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\bin\Debug\Employded.pdb
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.csproj.AssemblyReference.cache
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.csproj.SuggestedBindingRedirects.cache
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.Add_Chil.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.Add_Chil_DB.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.Add_Form.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.SqlQuery.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.StartForm.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.log_in.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.Properties.Resources.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.register.resources
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.csproj.GenerateResource.cache
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.csproj.CoreCompileInputs.cache
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.exe
+C:\Users\kong1\OneDrive\Рабочий стол\Employded\Employded\obj\Debug\Employded.pdb
